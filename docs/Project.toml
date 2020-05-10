@@ -1,0 +1,3 @@
+[deps]
+CaratheodorySolver = "adeef98b-d302-4b77-a810-4c3f84cb70a6"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
